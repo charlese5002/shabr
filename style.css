@@ -43,6 +43,10 @@ h6 {
     /*top: 90%;*/
 }
 
+p {
+    font-family: 'Playfair Display';
+}
+
 nav {
     display: block;
     margin-left: auto;

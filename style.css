@@ -45,6 +45,8 @@ h6 {
 
 p {
     font-family: 'Playfair Display';
+    background-color: #D3D3D3;
+    border-radius: 10px;
 }
 
 nav {
